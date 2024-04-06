@@ -24,25 +24,53 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
+O objetivo geral deste projeto é criar uma aplicação web que traga melhor qualidade de vida ao usuário, integrando orientações e músicas para meditação com um diário de emoções. De modo que ele possa registar suas reações e sentimentos com as práticas de meditação e acompanhar seu progresso.  
+
+Como objetivos específicos:  
+
+Melhoria da saúde mental do usuário pela prática regular de meditação; 
+
+Aumentar a consciência emocional permitindo identificar padrões de sentimentos e suas reações com o registro diário de emoções; 
+
+Promover a redução de estresse com estímulos de prática diária de meditação e gestão mais eficaz das emoções negativas; 
+
+Melhoria do foco e da clareza mental na combinação de meditação (que aprimora a capacidade de concentração e atenção plena) com registro de emoções (que ajuda a liberar pensamentos e sentimentos, resultando numa mente mais clara e focada); 
+
+Aprimoramento das relações interpessoais. Ao compreender melhor suas próprias emoções e reações os usuários podem desenvolver uma comunicação mais eficaz e empática de modo que melhore seus relacionamentos pessoais e profissionais.
  
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+As interfaces de meditação para auxiliar no equilíbrio emocional fazem parte de um novo mercado que está se expandindo no mundo. Até 2025 as perspectivas de investimentos nesta área cheguem a 504 bilhões de dólares segundo pesquisa divulgada em março de 2023 pelo Global Marketing Insight (GMI).
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+O mercado de software no segmento de saúde digital deverá gerar U$$ 327 bilhões até 2032, pois está sendo considerado eficiente meio para acelerar a inovação digital para médicos/pacientes e melhorar a qualidade da experiência dos usuários em todo mundo, segundo a GMI. 
+
+Com milhões de pessoas enfrentando a ansiedade e depressão em todo o mundo, especialmente após a pandemia, uma aplicação que integre estímulos e guias de meditação com o registro diário de emoções se torna essencial. Essa ferramenta proporcionaria um meio acessível e conveniente para lidar com os desafios emocionais, promovendo a autoconsciência, a gestão do estresse e melhora da saúde mental.
 
 Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+Apesar dos dados alarmantes de aumento de ansiedade e depressão na população mundial, o foco deste projeto é apresentar uma solução prática que atenda homens e mulheres adultos com níveis de iniciantes a intermediários na prática de meditação. Ainda que esta aplicação possa trazer benefícios para usuários fora do nosso escopo temos como prioridade o atendimento à população brasileira de qualquer escolaridade que tenha um mínimo de afinidade com aplicativos num smartphone ou desktop.  Posteriormente podemos incorporar à aplicação o atendimento ao público infantil.  
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+ 
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
+Guiados pelas pesquisas em campo com potenciais usuários desta aplicação que atendam nosso escopo de abrangência encontramos algumas características em comum:  
+
+Interesse em bem-estar emocional: Todos eles demonstraram um interesse ativo em melhorar sua saúde mental e emocional, buscando formas práticas de lidar com o estresse, ansiedade e depressão; 
+
+Abertura para novas experiências: Esses potenciais usuários demonstraram-se dispostos a experimentar novas técnicas e abordagens como meditação para desenvolver habilidades de autorregulação emocional; 
+
+Necessidade de orientação: Embora possam ter algum conhecimento básico de meditação, eles buscam orientação adicional para aprimorar sua técnica e compreender melhor os benefícios dessa prática; 
+
+Consistência na prática: Embora alguns potenciais usuários que participaram da pesquisa tenham alguma experiência com meditação eles demonstraram interesse num estímulo dado por uma aplicação para a prática regular de meditação. Reconhecendo os benefícios de uma rotina consistente; 
+
+Abertura para tecnologia: Esses participantes da pesquisa demonstraram-se confortáveis em usar aplicativos e ferramentas digitais como parte de sua rotina de autocuidado; 
+
+Desenvolvimento pessoal: Eles demonstraram valorizar oportunidades de crescimento pessoal e estão dispostos a se envolver em práticas de autorreflexão e autodesenvolvimento, como o registro diário de emoções. 
+
+ 
 
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
