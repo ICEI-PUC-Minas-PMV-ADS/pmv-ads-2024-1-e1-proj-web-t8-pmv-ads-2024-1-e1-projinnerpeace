@@ -1,25 +1,25 @@
 # InnerPeace
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º Semetestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários a prática de meditação, registro das emoções, acompanhamento dos hábitos, músicas relaxantes, promovendo o bem estar e o autoconhecimento.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Erasmo Alves Junior 
+* Graziela Nunes Caldeira 
+* Monica Eloisa da Silva
+* Pedro Antônio Barros
 * Nome completo do aluno 5
 * Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor
+* Amália Soares Vieira Vasconcelos
 
 # Documentação
 
