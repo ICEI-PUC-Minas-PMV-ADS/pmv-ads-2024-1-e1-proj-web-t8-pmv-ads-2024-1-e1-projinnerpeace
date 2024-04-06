@@ -47,7 +47,6 @@ O mercado de software no segmento de saúde digital deverá gerar U$$ 327 bilhõ
 
 Com milhões de pessoas enfrentando a ansiedade e depressão em todo o mundo, especialmente após a pandemia, uma aplicação que integre estímulos e guias de meditação com o registro diário de emoções se torna essencial. Essa ferramenta proporcionaria um meio acessível e conveniente para lidar com os desafios emocionais, promovendo a autoconsciência, a gestão do estresse e melhora da saúde mental.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -71,6 +70,4 @@ Desenvolvimento pessoal: Eles demonstraram valorizar oportunidades de cresciment
 
  
 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
