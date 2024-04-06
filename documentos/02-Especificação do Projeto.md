@@ -7,15 +7,15 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th> Ana Claudia
+<th colspan="2">Perfil Ana Claudia </th> 
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td> Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas 
-<td width="600px">...</td>
+<td width="150px"><b>Descrição</b></td>  
+<td width="600px">Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas</td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td> Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia.
-<td>...</td>
+<td><b>Necessidades</b></td> .
+<td>Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia</td>
 </tr>
 </tbody>
 </table>
