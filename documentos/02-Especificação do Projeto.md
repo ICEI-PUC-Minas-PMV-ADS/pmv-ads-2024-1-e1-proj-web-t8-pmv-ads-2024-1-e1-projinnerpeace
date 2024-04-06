@@ -23,41 +23,51 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|EU COMO... `QUEM`| QUERO/PRECISO ... `O QUE`                           |PARA ... `PORQUE`                 |
+|-----------------|-----------------------------------------------------|----------------------------------|
+| Ana Claudia     | Acessar conteúdo para minha prática de meditação    | Controlar minha ansiedade        |
+| Ana Claudia     | Um estímulo para prática diária de meditação        | Ter um tempo para meu autocuidado|   
+|Michele Gomes    | Guia de meditação para iniciantes                   | Incluir o hábito de meditação na minha rotina  
+| Michele Gomes   | Um app para registro de emoções                     | Externalizar pensamentos negativos| 
+| Claudio Azevedo | Começar a meditar                                   | Conseguir aumentar meu foco no trabalho| 
+| Claudio Azevedo | Acesso prático a músicas de meditação               | Ouvir músicas relaxantes quando sinto que estou ficando estressado |
+| João Henrique   | Um local onde eu possa registar meus sentimentos e emoções ao longo do dia | Externalizar de alguma forma os sentimentos negativos 
+| João Henrique   | Acesso a músicas de meditação                       | Facilitar a visualização de movimentos no meu esporte como técnica de treinamento mental 
+| Michele Gomes   |Um app para registrar novos hábitos                  | Monitorar diariamente meus novos hábitos 
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
+O projeto apresentará as funcionalidades para atender os usuários conforme definição dos requisitos abaixo. 
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
-|ID    | Descrição                | Prioridade |
-|-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-
+|ID     | Descrição                                                                         | Prioridade |
+|-------|-----------------------------------------------------------------------------------|------------|
+| RF-01 | O site deve permitir o cadastro de perfil e usuário                               | Alto       | 
+| RF-02 | O site deve permitir o registro de textos com acesso privado dos usuários         | Alto       |
+| RF-03 | O site deve permitir criação de listas de tarefas                                 | Alto       |
+| RF-04 | O site deve permitir reprodução de áudios                                         | Alto       |
+| RF-05 | O site deve permitir reproduzir meditações guiadas (insônia, ansiedade, estresse, luto, relaxamento, foco, autoestima, saúde, equilíbrio, criança interior etc.)                                                          | Alto       |
+| RF-06 | Deve emitir alertas para meditação no horário definido pelo usuário               | Alto       |
+| RF-07 | Dash board para acompanhar o progresso do usuário                                 | Médio      |
+| RF-08 | Registro de hábitos pelo usuário |Alto 
+| RF-09 | Registro de emoções diárias                                                       | Alto       |
+| RF-10 | O sistema deve apresentar as meditações disponíveis com base na emoção registrada | Médio      |
+| RF-11 | O sistema deve fornecer campo de busca para o usuário pesquisar pelas meditações  | Médio      |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
-
-|ID      | Descrição               |Prioridade |
-|--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-
+|ID      | Descrição                                                                                                    |Prioridade|
+|--------|--------------------------------------------------------------------------------------------------------------|----------|
+| RNF-01 | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Microsoft Edge, Firefox) | Alto     |
+| RNF-02 | Uso de design responsivo nas interfaces gráficas                                                             | Médio    |
+| RNF-03 | A aplicação deve ser intuitiva e de fácil usabilidade                                                        | Médio    | 
+| RNF-04 | Compatibilidade com os sistemas operacionais Windows, Linux, IOS e Android                                   | Médio    |
+| RNF-05 | O sistema deve funcionar 24 h por dia e 7 dias por semana                                                    | Alto     |
+| RNF-06 | O sistema deve suportar mais 100 mil acesso de uma vez                                                       | Alto     |
+| RNF-07 | O sistema deve garantir a segurança e privacidade dos dados dos usuários                                     | Alto     |
+| RNF-08 | O sistema deve recuperar de falhas em no máximo 2 segundo                                                    | Alto     |
+| RNF-09 | O sistema deve permitir a migração para novas plataformas em 4 meses                                         | Médio    |
 **Prioridade: Alta / Média / Baixa. 
 
