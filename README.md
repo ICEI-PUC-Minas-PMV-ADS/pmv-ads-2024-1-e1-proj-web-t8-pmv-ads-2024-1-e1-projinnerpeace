@@ -14,8 +14,6 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 * Graziela Nunes Caldeira 
 * Monica Eloisa da Silva
 * Pedro Antônio Barros
-* Nome completo do aluno 5
-* Nome completo do aluno 6
 
 ## Orientador
 
