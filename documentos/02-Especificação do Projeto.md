@@ -7,12 +7,12 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
-</tr>
-<tr>
+<th colspan="2">Perfil Nome <Ana Claudia /th>
+<Idade: 56 anos/tr>
+<Ocupação: Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas /tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
-</tr>
+<Bio: Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia. /tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>...</td>
