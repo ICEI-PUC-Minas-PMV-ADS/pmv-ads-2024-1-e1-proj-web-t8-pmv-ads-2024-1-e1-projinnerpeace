@@ -19,7 +19,7 @@ O primeiro sinal é o sentimento de ansiedade em relação ao que irá ou poder�
 
 Uma forma de equilibrar estas emoções é através da meditação e se praticada com regularidade leva a mente a um estado de serenidade. Os benefícios da meditação são inúmeros e “reduz a ansiedade e o estresse, combate a depressão, melhora o sono e combate a insônia, aumenta o poder de concentração e foco, promove a criatividade, clareza mental, senso de felicidade, estabilidade emocional, autocontrole”. (BITENCOURT E PIMENTEL 2016, p. 258). 
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+
 
 
 ## Objetivos
@@ -38,7 +38,6 @@ Melhoria do foco e da clareza mental na combinação de meditação (que aprimor
 
 Aprimoramento das relações interpessoais. Ao compreender melhor suas próprias emoções e reações os usuários podem desenvolver uma comunicação mais eficaz e empática de modo que melhore seus relacionamentos pessoais e profissionais.
  
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
