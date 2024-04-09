@@ -1,7 +1,7 @@
 
 # Metodologia
 
-Neste projeto será usado a metodologia SCRUM que é uma ferramente flexível que permite a interação e troca entre os mebros da equipe, alterações no projeto, e suas entregas são realizadas por etapas.
+Neste projeto será usado a metodologia SCRUM que é uma ferramente flexível que permite a interação e troca entre os mebros da equipe, alterações no projeto e suas entregas são realizadas por etapas.
 
 
 ## Gerenciamento de Projeto
