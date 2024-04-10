@@ -17,7 +17,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 ## Orientador
 
-* Amália Soares Vieira De Vasconcelos
+* Amália Soares Vieira de Vasconcelos
 
 # Documentação
 
