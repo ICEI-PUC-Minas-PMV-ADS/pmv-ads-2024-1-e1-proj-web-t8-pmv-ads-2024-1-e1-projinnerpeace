@@ -59,7 +59,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https:                            |
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | [http://....](https://www.figma.com/file/PLnqMouYB1hS5zWqtSiK8c/Untitled?type=whiteboard&node-id=0-1&t=7OigHnyMIzCTJhES-0)                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
