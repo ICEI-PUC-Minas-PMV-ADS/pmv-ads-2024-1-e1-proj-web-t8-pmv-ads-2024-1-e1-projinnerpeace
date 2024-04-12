@@ -30,7 +30,7 @@ Para organização e desenvolvimento deste projeto a equipe optou por usar o Git
 O quadro kanban do grupo no GitHub está disponível no link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/2
 apresentado na figura abaixo:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/166244726/eb748188-cdf1-4e2c-bee1-017ab1e93451)
+https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
