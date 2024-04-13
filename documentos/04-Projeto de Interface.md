@@ -3,36 +3,30 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/45448298-2773-49b0-bcbf-5079f67b933e)
+![alt text](image-1.png)
+Figura 1 - Fluxo de telas dos usuários
 
 
-
- 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+As telas estão divididas em duas categorias. A primeira categoria contém a apresentação da página inicial, login e primeiro cadastro, possui cabeçalho e rodapé trazendo a logo da marca, rede social e links de serviço e ajuda. 
+
+No cabeçalho consta o endereço da página, ícone de login, ícone para voltar para a página inicial e botão para fazer teste grátis dos serviços. 
+
+O corpo da página apresenta o conteúdo, traz a logo da empresa e os serviços que estão disponíveis para o usuário, meditações, músicas relaxantes, acompanhamento de hábitos e diário das emoções. 
+
+Rodapé consta o link das redes sociais, os serviços, informações sobre a empresa e ajuda. 
+
+A segunda categoria apresenta a tela das meditações disponíveis, diários das emoções, lista de hábitos e sons relaxantes. Nesta opção não terá o cabeçalho e rodapé, para que os usuários possam interagir apenas com a funcionalidade sem outras interferências visuais que possa interferir no momento de meditação ou o uso dos demais serviços disponíveis.  
+
 
 ### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+Nesta categoria apresentaremos cada tela do sistema e suas funcionalidades.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
-
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
-
+1 - Tela Inicial
 
 
