@@ -11,7 +11,7 @@
 **Ocupação:** Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas
 
 **Bio:** Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia.
-
+____________________________________________________________________________________________________________
 ![alt text](image-11.png)
 
 **Claudio Azevedo**
@@ -21,7 +21,7 @@
 **Ocupação:** Design Gráfico 
 
 **Bio:** Noivo, devido a grande demanda no trabalho e os preparativos do casamento, tem se sentido estressado.
-
+_____________________________________________________________________________________________________________
 ![alt text](image-12.png)
 
 **Michele Gomes** 
@@ -31,7 +31,7 @@
 **Ocupação:** Estudante 
 
 **Bio:** Mora com os pais, está no primeiro ano da faculdade e tem crises de ansiedade. 
-
+____________________________________________________________________________________________________________
 ![alt text](image-13.png)
 
 **João Henrique**
