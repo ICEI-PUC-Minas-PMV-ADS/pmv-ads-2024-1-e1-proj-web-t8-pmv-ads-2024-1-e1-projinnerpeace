@@ -2,24 +2,33 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+![alt text](image-10.png)
 
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Ana Claudia </th> 
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>  
-<td width="600px">Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td> .
-<td>Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia</td>
-</tr>
-</tbody>
-</table>
+**Ana Claudia**
+**Idade:** 56 anos
+**Ocupação:** Professora do ensino médio na Escola Estadual Floriano Peixoto em Campinas
+**Bio:** Casada e três filhos em idade escolar. Tem dificuldade de relaxar e dormir, às vezes tem insônia.
 
+![alt text](image-11.png)
+
+**Claudio Azevedo**
+**Idade:** 36 anos 
+**Ocupação:** Design Gráfico 
+**Bio:** Noivo, devido a grande demanda no trabalho e os preparativos do casamento, tem se sentido estressado.
+
+![alt text](image-12.png)
+
+**Michele Gomes** 
+**Idade:** 19 anos 
+**Ocupação:** Estudante 
+**Bio:** Mora com os pais, está no primeiro ano da faculdade e tem crises de ansiedade. 
+
+![alt text](image-13.png)
+
+**João Henrique**
+**Idade:** 28 anos 
+**Ocupação:** Tenista
+**Bio:** Solteiro, praticante de esportes desde a infância, precisa lidar com a pressão das competições.
 
 ## Histórias de Usuários
 
