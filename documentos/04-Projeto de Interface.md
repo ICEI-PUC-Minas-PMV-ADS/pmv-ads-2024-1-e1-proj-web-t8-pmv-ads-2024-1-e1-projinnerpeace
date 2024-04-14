@@ -38,7 +38,7 @@ Já o rodapé tem os links úteis da marca referente as redes sociais, Sobre Nó
 
 Figura 2 - Tela Inicial
 
-2 - Tela de Login
+**2 - Tela de Login**
 
 Clicando no ícone de Login na página inicial o usuário será levado para acessar suas credenciais com e-mail e senha, também terá a opção de recuperar a senha, cadastrar ou acessar usando o cadastro de suas redes sociais. Foi mantido a mesma estrutura da página inicial (cabeçalho, conteúdo e rodapé) e a direita possui um ícone para cancelar e voltar para a página inicial. 
 
@@ -46,7 +46,7 @@ Clicando no ícone de Login na página inicial o usuário será levado para aces
 
 Figura 3 - Tela de Login
 
-3 - Tela de Cadastro
+**3 - Tela de Cadastro**
 
 Clicando no ícone Cadastrar o usuário será direcionado para fazer seu cadastro. Deverá preencher seu nome, e-mail e criar uma senha. Após preencher os dados será direcionado para a página inicial. Foi mantido a mesma estrutura da página inicial (cabeçalho, conteúdo e rodapé) e a direita possui um ícone para cancelar e voltar para a página inicial.
 
@@ -54,7 +54,7 @@ Clicando no ícone Cadastrar o usuário será direcionado para fazer seu cadastr
 
 Figura 4 - Tela de Cadastro
 
-4 - Tela de Meditação Guiada
+**4 - Tela de Meditação Guiada**
 
 Esta tela apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que o usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar e retornar para a página inicial. Centralizado a página consta o nome da seção e abaixo as opções de meditações disponíveis, basta o usuário clicar no ícone para dar o play e iniciar a meditação. 
 
@@ -62,7 +62,7 @@ Esta tela apresenta uma das funcionalidades da aplicação, o layout foi alterad
 
 Figura 5 - Tela de Meditação Guiada
 
-5 - Tela de Meditação Livre
+**5 - Tela de Meditação Livre**
 
 A tela de meditação livre também apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que os usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar para a página inicial. Centralizado a página consta o nome da seção, nesta opção o usuário define o tempo de meditação clicando no ícone do relógio e abaixo o ícone para dar o play e iniciá-la.  
 
@@ -70,7 +70,7 @@ A tela de meditação livre também apresenta uma das funcionalidades da aplica�
 
 Figura 6 - Tela de Meditação Livre
 
-6 - Tela de Hábitos
+**6 - Tela de Hábitos**
 
 Nesta página o layout também apresenta apenas a seção que o usuários está. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retorna para a página inicial. Centralizado a página consta o nome da seção, nesta opção o usuário poderá criar suas listas de tarefas que deseja acompanhar seus hábitos diários. Cada quadro apresenta uma tarefa a ser monitorada, mostrando a frequência que a tarefa está sendo praticada, a quantidade de check-in, os dias que o usuário pretende realizar a tarefa, o horário e se terá notificação para lembrá-lo da atividade. A cada check-in, basta clicar no ícone de verificação da tarefa.  
 
@@ -78,7 +78,7 @@ Nesta página o layout também apresenta apenas a seção que o usuários está.
 
 Figura 7 - Tela de Hábitos
 
-7 - Músicas Relaxantes
+**7 - Músicas Relaxantes**
 
 A tela de música relaxante o layout também apresenta apenas a seção que o usuários está, sem interferências visuais do cabeçalho e rodapé. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção para retornar a página inicial. A direita da página consta o nome da seção e a esquerda as opções de sons que estão disponíveis para ouvir. Basta clicar no botão referente a opção desejada para que a música inicie.  
 
@@ -86,7 +86,7 @@ A tela de música relaxante o layout também apresenta apenas a seção que o us
 
 Figura 8 - Tela Músicas Relaxantes
 
-8 - Diário das Emoções
+**8 - Diário das Emoções**
 
 Nesta página o layout também apresenta apenas a seção que o usuários está. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar a página inicial. Centralizado a página consta o nome da seção e abaixo os quadros para o usuário preencher suas experiências pessoais. Na opção Como foi seu dia?, o usuário deverá preencher os três campos, clicando no botão de editar. A opção Como você está agora? O usuário deverá marcar as emoções que mais se adequam ao momento atual. E por último a opção Cartão de Enfrentamento onde o usuário poderá incluir frases ou situações que precisa de mais comprometimento em seu dia a dia. 
 
