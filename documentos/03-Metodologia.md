@@ -59,10 +59,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | [https:](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main/codigo-fonte)                            |
-| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main                            |
-| Projeto de Interface                | Canva                              | https://www.canva.com/design/DAGCP6MxbEU/g-lG-zuDV7SZ5e0mefPQ1Q/view?utm_content=DAGCP6MxbEU&utm_campaign=designshare&utm_medium=link&utm_source=editor          |
-| Gerenciamento do Projeto            | GitHub Projects                    |[ http://....](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1)                            |
+| Repositório de código fonte         | GitHub                             | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main/codigo-fonte)                            |
+| Documentos do projeto               | GitHub                             | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main)                            |
+| Projeto de Interface                | Canva                              | [Link](https://www.canva.com/design/DAGCP6MxbEU/g-lG-zuDV7SZ5e0mefPQ1Q/view?utm_content=DAGCP6MxbEU&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |
+| Gerenciamento do Projeto            | GitHub Projects                    | [Link](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1)                            |
 | Hospedagem                          | GitHub Pages                       | N/A                            |
 
 
