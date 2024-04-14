@@ -15,7 +15,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 - Scrum Master: Graziela Caldeira.
 - Product Owner: Erasmo Alves.
-- Equipe de Desenvolvimento: Eramos Alves, Graziela Caldeira, Monica Silva, Pedro Barros.
+- Equipe de Desenvolvimento: Eramos Alves, Graziela Caldeira, Monica eloisa, Pedro Barros.
 - Equipe de Design: Graziela Caldeira.
 
 ### Processo
