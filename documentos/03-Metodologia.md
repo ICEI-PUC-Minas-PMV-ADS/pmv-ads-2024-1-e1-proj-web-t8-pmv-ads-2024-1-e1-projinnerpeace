@@ -32,6 +32,8 @@ apresentado na figura abaixo:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/166244726/c1b311a1-f335-45a0-8322-7373dd08dfc6)
 
+Figura 1 - Kanban
+
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
