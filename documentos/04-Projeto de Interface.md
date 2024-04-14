@@ -19,8 +19,7 @@ O corpo da página apresenta o conteúdo, traz a logo da empresa e os serviços 
 
 Rodapé consta o link das redes sociais, os serviços, informações sobre a empresa e ajuda. 
 
-A segunda categoria apresenta a tela das meditações disponíveis, diários das emoções, lista de hábitos e sons relaxantes. Nesta opção não terá o cabeçalho e rodapé, para que os usuários possam interagir apenas com a funcionalidade sem outras interferências visuais que possam interferir no momento de meditação ou no uso dos demais serviços disponíveis.   
-
+A segunda categoria apresenta a tela das meditações disponíveis, diários das emoções, lista de hábitos e sons relaxantes. Nesta opção não terá o cabeçalho e rodapé, para que os usuários possam interagir apenas com a funcionalidade sem outras interferências visuais que possam interferir no momento de meditação ou no uso dos demais serviços disponíveis. Para retornar a página inicial basta clicar no ícone de fechar.   
 
 ### Protótipo de baixa fidelidade
 
