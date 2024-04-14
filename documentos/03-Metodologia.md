@@ -53,7 +53,7 @@ Figura 1 - Kanban
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+As ferramentas que estão sendo utilizadas para o desenvolvimento do projeto é o GitHub, onde foi salvo o documento do projeto, criado o Kanban com as tarefas de cada etapa do desenvolvimento e onde o projeto está saldo. Para o desenvolvimento da interface do projeto foi usado inicialmente o Canva para criar as telas que o projeto terá inicialmente.
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
