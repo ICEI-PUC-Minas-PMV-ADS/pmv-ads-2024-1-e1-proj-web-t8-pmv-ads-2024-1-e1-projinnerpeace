@@ -3,7 +3,7 @@
 
 ## User Flow
 
-O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. 
+O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Para acessar o protóriopo interativo, acess: https://www.canva.com/design/DAGCP6MxbEU/g-lG-zuDV7SZ5e0mefPQ1Q/view?utm_content=DAGCP6MxbEU&utm_campaign=designshare&utm_medium=link&utm_source=editor Em seguida explicaremos cada uma destas telas. 
 
 ![alt text](image-1.png)
 Figura 1 - Fluxo de telas dos usuários
