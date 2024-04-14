@@ -26,7 +26,7 @@ A segunda categoria apresenta a tela das meditações disponíveis, diários das
 
 Nesta categoria apresentaremos cada tela do sistema e suas funcionalidades.
 
-1 - Tela Página Inicial
+**1 - Tela Página Inicial**
 
 A tela inicial da aplicação será onde os usuários poderão interagir com o site, a página foi dividida em cabeçalho, conteúdo e rodapé. No cabeçalho consta o endereço da página, logo abaixo tem a opção de fazer o login para os usuários cadastros, clicando na opção login a direita. Ao lado do login tem a opção de testar a ferramenta, clicando no botão “Teste Grátis”. A esquerda do cabeçalho tem o botão de home. 
 
