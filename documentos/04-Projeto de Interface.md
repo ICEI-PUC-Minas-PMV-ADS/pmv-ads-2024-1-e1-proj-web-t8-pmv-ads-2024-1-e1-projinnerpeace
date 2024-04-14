@@ -12,7 +12,7 @@ Figura 1 - Fluxo de telas dos usuários
 
 ## Protótipo
 
-As telas estão divididas em duas categorias. A primeira categoria contém a apresentação da página inicial, login e primeiro cadastro, possui cabeçalho e rodapé trazendo a logo da marca, rede social e links de serviço e ajuda. 
+As telas estão divididas em duas categorias. A primeira categoria contém a apresentação da página inicial, login e primeiro cadastro, possui cabeçalho, o conteúdo da página e rodapé trazendo a logo da marca, rede social e links de serviço e ajuda. 
 
 No cabeçalho consta o endereço da página, ícone de login, ícone para voltar para a página inicial e botão para fazer teste grátis dos serviços. 
 O corpo da página apresenta o conteúdo, traz a logo da empresa e os serviços que estão disponíveis para o usuário, meditações, músicas relaxantes, acompanhamento de hábitos e diário das emoções. 
