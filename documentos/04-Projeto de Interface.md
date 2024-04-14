@@ -27,6 +27,53 @@ A segunda categoria apresenta a tela das meditações disponíveis, diários das
 
 Nesta categoria apresentaremos cada tela do sistema e suas funcionalidades.
 
-1 - Tela Inicial
+1 - Tela Página Inicial
+
+A tela inicial da aplicação será onde os usuários poderão interagir com o site, a página foi dividida em cabeçalho, conteúdo e rodapé. No cabeçalho consta o endereço da página, logo abaixo tem a opção de fazer o login para os usuários cadastros, clicando na opção login a direita. Ao lado do login tem a opção de testar a ferramenta, clicando no botão “Teste Grátis”. A esquerda do cabeçalho tem o botão de home. 
+
+No corpo da página, centralizado tem a logo da marca e logo abaixo as funcionalidades da página que os usuários poderão acessar. Cada funcionalidade apresenta um ícone, onde o usuário poderá optar por acessar as meditações, músicas relaxantes, acompanhamento dos hábitos e diários das emoções que serão apresentadas logo abaixo com as respectivas telas. 
+
+Já o rodapé tem os links úteis da marca referente as redes sociais, Sobre Nós que apresenta mais sobre a página e como surgiu a ideia. Link de Serviços onde será possível fazer a assinatura e o link de ajuda para entrar em contato com a empresa em caso de dúvida nos acessos da página.  
+
+![alt text](image-2.png)
+Figura 2 - Tela Inicial
+
+2 - Tela de Login
+
+Clicando no ícone de Login na página inicial o usuário será levado para acessar suas credenciais com e-mail e senha, também terá a opção de recuperar a senha, cadastrar ou acessar usando o cadastro de suas redes sociais. Foi mantido a mesma estrutura de
+
+![alt text](image-3.png)
+Figura 3 - Tela de Login
+
+3 - Tela de Cadastro
 
 
+![alt text](image-4.png)
+Figura 4 - Tela de Cadastro
+
+4 - Tela de Meditação Guiada
+
+![alt text](image-5.png)
+Figura 5 - Tela de Meditação Guiada
+
+6 - Tela de Meditação Livre
+
+![alt text](image-6.png)
+Figura 7 - Tela de Meditação Livre
+
+7 - Tela de Hábitos
+
+![alt text](image-7.png)
+Figura 8 - Tela de Hábitos
+
+8 - Músicas Relaxantes
+
+
+![alt text](image-8.png)
+Figura 9 - Tela Músicas Relaxantes
+
+9 - Diário das Emoções
+
+
+![alt text](image-9.png)
+Figura 10 - Tela Diário das Emoções
