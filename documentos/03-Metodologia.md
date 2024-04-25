@@ -29,7 +29,7 @@ Para organização e desenvolvimento deste projeto a equipe optou por usar o Git
 
 O kanban do projeto conforme imagem abaixo foi criado no GitHub e está disponível clicando no link: [https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1022/views/1)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/166244726/c1b311a1-f335-45a0-8322-7373dd08dfc6)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/7200a519-4a75-4990-873e-3f64fbd49fb0)
 
 Figura 1 - Kanban
 
