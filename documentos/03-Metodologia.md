@@ -27,7 +27,7 @@ Para organização e desenvolvimento deste projeto a equipe optou por usar o Git
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O kanban do projeoto conforme imagem abaixo foi criado no GitHub e está disponível clicando [aqui][https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1022/views/1)
+O kanban do projeoto conforme imagem abaixo foi criado no GitHub e está disponível clicando no link: [https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1022/views/1)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/166244726/c1b311a1-f335-45a0-8322-7373dd08dfc6)
 
