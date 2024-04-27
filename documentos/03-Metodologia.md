@@ -60,7 +60,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main/codigo-fonte)                            |
 | Documentos do projeto               | GitHub                             | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main)                            |
-| Projeto de Interface                | Canva                              | [Link](https://www.canva.com/design/DAGCP6MxbEU/g-lG-zuDV7SZ5e0mefPQ1Q/view?utm_content=DAGCP6MxbEU&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |
+| Projeto de Interface                | Figma                              | [Link](https://www.figma.com/file/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?type=design&node-id=0%3A1&mode=design&t=j3i3Qp3xOUf11dHI-1)          |
 | Gerenciamento do Projeto            | GitHub Projects                    | [Link](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1007/views/1)                            |
 | Hospedagem                          | GitHub Pages                       | N/A                            |
 
