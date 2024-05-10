@@ -1,9 +1,5 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
 ### Título da funcionalidade
 
 [Adicione imagem da funcionalidade/tela]
@@ -33,12 +29,65 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
+### Tela de Meditação Guiada
+
+img.![alt text](<../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-guiada.PNG>)
+
+#### Requisito atendido
+
+RF-05: O site deve permitir reproduzir meditações guiadas (insônia, ansiedade, estresse, luto, relaxamento, foco, autoestima, saúde, equilíbrio, criança interior etc.) 
+
+
+#### Artefatos da funcionalidade
+
+index-meditacao-guiada.html
+style_meditacao-guiada.css
+
+
+#### Estrutura de Dados
+
+link[index-medicao-guiada.html] (/codigo-fonte/meditacao-guiada/index-meditacao-guiada.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: [http://127.0.0.1:5500/index-meditacao-guiada.html] (http://127.0.0.1:5500/index-meditacao-guiada.html)
+
+
+#### Responsável
+
+Responsável pelo desenvolvimento da funcionalidade: Graziela Caldeira
+
+### Tela de Meditação Livre
+
+img.![alt text](<../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-livre.PNG>)
+
+
+#### Requisito atendido
+
+RF-05: O site deve permitir reproduzir meditações guiadas (insônia, ansiedade, estresse, luto, relaxamento, foco, autoestima, saúde, equilíbrio, criança interior etc.)
+
+
+#### Artefatos da funcionalidade
+
+index-medtacao-livre.html
+style_meditacao-guiada.css
+
+
+#### Estrutura de Dados
+
+link[Index-medicao-livre.html] (/codigo-fonte/meditacao-guiada/Index-meditacao-livre.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: [\[http://127.0.0.1:5500/index-meditacao-guiada.html](http://127.0.0.1:5500/Index-meditacao-livre.html)
+
+
+#### Responsável
+
+Nome do responsável pelo desenvolvimento da funcionalidade: Graziela Caldeira
 
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
