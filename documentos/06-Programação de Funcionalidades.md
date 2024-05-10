@@ -31,7 +31,11 @@
 
 ### Tela de Meditação Guiada
 
-img.!
+O acesso a tela de meditação guiada será feito pela tela inicial clicando na opção "Meditação". As estruturas de dados foram baseadas em HTML, CSS e JavaScript. 
+
+Exemplo da tela de Meditação Guiada:
+
+![](/documentos/tela-meditacao-guiada.PNG)
 
 #### Requisito atendido
 
@@ -41,6 +45,7 @@ RF-05: O site deve permitir reproduzir meditações guiadas (insônia, ansiedade
 #### Artefatos da funcionalidade
 
 index-meditacao-guiada.html
+
 style_meditacao-guiada.css
 
 
@@ -60,7 +65,11 @@ Responsável pelo desenvolvimento da funcionalidade: Graziela Caldeira
 
 ### Tela de Meditação Livre
 
-img.![alt text](../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-livre.PNG)
+O acesso a tela de meditação será feito pela tela inicial clicando na opção "Meditação". As estruturas de dados foram baseadas em HTML, CSS e JavaScript.
+
+Exemplo da tela de Meditação Livre:
+
+![](/documentos/tela-meditacao-livre.PNG)
 
 
 #### Requisito atendido
@@ -71,13 +80,12 @@ RF-05: O site deve permitir reproduzir meditações guiadas (insônia, ansiedade
 #### Artefatos da funcionalidade
 
 index-medtacao-livre.html
-style_meditacao-guiada.css
 
+style_meditacao-guiada.css
 
 #### Estrutura de Dados
 
 [Index-medicao-livre.html] (/codigo-fonte/meditacao-guiada/Index-meditacao-livre.html)
-
 
 #### Instruções de acesso
 
