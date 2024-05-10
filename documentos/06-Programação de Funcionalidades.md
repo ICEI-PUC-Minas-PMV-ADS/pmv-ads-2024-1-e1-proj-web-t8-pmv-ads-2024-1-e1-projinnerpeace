@@ -31,7 +31,7 @@
 
 ### Tela de Meditação Guiada
 
-img.![alt text](<../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-guiada.PNG>)
+img.!
 
 #### Requisito atendido
 
@@ -46,12 +46,12 @@ style_meditacao-guiada.css
 
 #### Estrutura de Dados
 
-link[index-medicao-guiada.html] (/codigo-fonte/meditacao-guiada/index-meditacao-guiada.html)
+[index-medicao-guiada.html](/codigo-fonte/meditacao-guiada/index-meditacao-guiada.html)
 
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: [http://127.0.0.1:5500/index-meditacao-guiada.html] (http://127.0.0.1:5500/index-meditacao-guiada.html)
+Abra um navegador de Internet e informe a seguinte URL: [http://127.0.0.1:5500/index-meditacao-guiada.html](http://127.0.0.1:5500/index-meditacao-guiada.html)
 
 
 #### Responsável
@@ -60,7 +60,7 @@ Responsável pelo desenvolvimento da funcionalidade: Graziela Caldeira
 
 ### Tela de Meditação Livre
 
-img.![alt text](<../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-livre.PNG>)
+img.![alt text](../../../PROGRAMAÇÃO INNERPEACE/Imagens/tela-meditacao-livre.PNG)
 
 
 #### Requisito atendido
@@ -76,7 +76,7 @@ style_meditacao-guiada.css
 
 #### Estrutura de Dados
 
-link[Index-medicao-livre.html] (/codigo-fonte/meditacao-guiada/Index-meditacao-livre.html)
+[Index-medicao-livre.html] (/codigo-fonte/meditacao-guiada/Index-meditacao-livre.html)
 
 
 #### Instruções de acesso
