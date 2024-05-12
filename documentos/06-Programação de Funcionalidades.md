@@ -42,6 +42,9 @@ RF-12: O site terá uma página inicial com apresentação das principais funcio
 
 #### Artefatos da funcionalidade
 
+index.html
+style.css
+
 #### Estrutura de dados
 
 #### Instruções de acesso
