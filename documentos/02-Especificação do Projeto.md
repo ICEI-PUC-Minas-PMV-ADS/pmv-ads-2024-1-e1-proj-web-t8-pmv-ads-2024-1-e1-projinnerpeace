@@ -75,6 +75,7 @@ O projeto apresentará as funcionalidades para atender os usuários conforme def
 | RF-09 | Registro de emoções diárias                                                       | Alto       |
 | RF-10 | O sistema deve apresentar as meditações disponíveis com base na emoção registrada | Médio      |
 | RF-11 | O sistema deve fornecer campo de busca para o usuário pesquisar pelas meditações  | Médio      |
+| RF-12 | O site terá uma página inicial com apresentação das principais funcionalidades    | Alto       |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
