@@ -29,6 +29,28 @@
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
 
+### Tela Home Page
+
+Trata-se da tela inicial da aplicação. As estruturas de dados foram baseadas em HTML e CSS. 
+
+Exemplo da tela Home Page:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/f9956e14-3314-4ee1-825c-6a7a5ff5783b)
+
+#### Requisito atendido
+
+RF-12: O site terá uma página inicial com apresentação das principais funcionalidades.
+
+#### Artefatos da funcionalidade
+
+#### Estrutura de dados
+
+#### Instruções de acesso
+
+#### Responsável
+
+Responsável pelo desenvolvimento da funcionalidade: Erasmo Alves Junior
+
+
 ### Tela de Meditação Guiada
 
 O acesso a tela de meditação guiada será feito pela tela inicial clicando na opção "Meditação". As estruturas de dados foram baseadas em HTML, CSS e JavaScript. 
