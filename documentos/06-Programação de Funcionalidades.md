@@ -1,34 +1,5 @@
 # Programação de Funcionalidades
 
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
-
-
-#### Requisito atendido
-
-[RF-X: adicione a descrição do requisito atendido]
-
-
-#### Artefatos da funcionalidade
-
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
-#### Instruções de acesso
-
-[Adicione as orientações de acesso à funcionalidade]
-
-
-#### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
 ### Tela Home Page
 
 Trata-se da tela inicial da aplicação. As estruturas de dados foram baseadas em HTML e CSS. 
@@ -120,7 +91,6 @@ Abra um navegador de Internet e informe a seguinte URL: [\[http://127.0.0.1:5500
 #### Responsável
 
 Nome do responsável pelo desenvolvimento da funcionalidade: Graziela Caldeira
-
 
 
 
