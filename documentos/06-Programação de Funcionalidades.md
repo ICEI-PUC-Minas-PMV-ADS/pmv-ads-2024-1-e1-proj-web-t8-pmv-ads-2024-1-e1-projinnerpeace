@@ -99,11 +99,10 @@ Trata-se da tela de login,a tela foi criada com a linguagem de marcaçao HTML E 
 
 ### Requisitos
 
-O site deve permitir fazer login ,tambem permite fazer o cadastro ou entrar com contas como Google, Facebook,githube twiter
+O site deve permitir fazer login ,permitir fazer o cadastro ou entrar com contas como Google, Facebook,githube twiter
 
 ### instruçoes de acesso
 abra o navegador na seguinte URL:
-http://127.0.0.1:5500/codigo-fonte/login%20form/Login%20Form/login.html
 http://127.0.0.1:550/login.html
 
 <!-- Reaponsavel pelo desenvolvimento -->
