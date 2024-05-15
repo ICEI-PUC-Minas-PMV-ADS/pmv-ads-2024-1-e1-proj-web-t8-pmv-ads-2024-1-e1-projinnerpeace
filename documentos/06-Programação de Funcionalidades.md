@@ -19,6 +19,10 @@ style-home.css
 
 #### Estrutura de dados
 
+codigo-fonte/home/index-home.html 
+
+codigo-fonte/home/style-home.css 
+
 #### Instruções de acesso
 
 #### Responsável
