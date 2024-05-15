@@ -5,7 +5,8 @@
 Trata-se da tela inicial da aplicação. As estruturas de dados foram baseadas em HTML e CSS. 
 
 Exemplo da tela Home Page:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/f9956e14-3314-4ee1-825c-6a7a5ff5783b)
+![print tela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/e48deedd-73f8-4e2d-a957-39683c122f18)
+
 
 #### Requisito atendido
 
