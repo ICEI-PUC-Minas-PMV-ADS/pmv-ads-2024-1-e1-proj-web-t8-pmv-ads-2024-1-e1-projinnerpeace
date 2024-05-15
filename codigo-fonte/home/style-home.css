@@ -1,0 +1,135 @@
+
+/* =========ESTILO GERAL========= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fbfbfb;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.flex{
+    display: flex;
+}
+
+
+  /* -----------------HEADER----------------------- */
+
+.cabecalho{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+  
+header{
+    padding: 20px 4%;
+}
+header > .cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    color: #9e18d3d3;
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover{
+    color: #320246d3;
+    font: bold;
+    transform: scale(1.1);
+}
+
+header nav ul{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 40px;
+}
+
+header .btn-cadastro button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #7a339694;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+header .btn-cadastro button:hover{
+    box-shadow: 0px 0px 8px #560f725e;
+}
+
+.entrar{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.btn-cadastro, .entrar{
+    display: inline-block;
+  }
+
+/* --------------------CORPO-------------------- */
+
+#logo{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+section.corpo-site{
+    padding: 20px 4%;
+}
+
+section.corpo-site .flex{
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.corpo-site .txt-corpo h1{
+    line-height: 40px;
+    font-size: 50px;
+}
+
+.carrossel-corpo{
+    width: 900px;
+}
+
+.carousel-caption h3{
+    color: #000000;
+
+}
+  
+ section, main{
+    display: inline-block;
+    margin-top: 20px;    
+ } 
+
+ section > h1{
+    font-size: xx-large;
+ }
+
+/* -------------------------RODAPÉ----------------------- */
+
+ .divisao-rodape {
+    border-bottom: 5px solid #a91bb6; /* Cor e estilo da linha */
+    margin-bottom: 20px; /* Espaçamento entre a linha e o conteúdo acima */
+    padding-top: 50px;
+  }
+
+  footer p{
+    margin-left: 20px;
+  }
