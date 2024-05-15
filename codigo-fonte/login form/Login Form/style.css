@@ -16,7 +16,7 @@ body{
     align-items: center;
     background-image: url(image/userflow.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 50%;
     background-position: center;
 }
 
