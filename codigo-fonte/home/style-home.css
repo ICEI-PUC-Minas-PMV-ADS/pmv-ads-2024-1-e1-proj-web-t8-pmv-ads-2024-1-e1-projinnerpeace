@@ -1,20 +1,16 @@
-
-/* =========ESTILO GERAL========= */
+/* -------------------ESTILO GERAL------------------ */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background-color: #fbfbfb;
     font-family: Arial, Helvetica, sans-serif;
   }
-
 .flex{
     display: flex;
 }
-
 
   /* -----------------HEADER----------------------- */
 
@@ -88,7 +84,6 @@ header .btn-cadastro button:hover{
     margin-top: 10px;
 }
 
-
 section.corpo-site{
     padding: 20px 4%;
 }
@@ -110,7 +105,6 @@ section.corpo-site .flex{
 
 .carousel-caption h3{
     color: #000000;
-
 }
   
  section, main{
