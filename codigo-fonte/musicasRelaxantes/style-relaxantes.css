@@ -1,0 +1,78 @@
+/* =========ESTILO GERAL========= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(45deg, #3a6cbc, #c16be3 );
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+  }
+
+.flex{
+    display: flex;
+}
+
+
+  /* -----------------HEADER----------------------- */
+
+  .cabecalho{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+  
+header{
+    padding: 50px 4%;
+}
+header > .cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header .btn-fechar button{
+    padding: 10px 20px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #fbfbfb;
+    background-color: #7a339694;
+    border-color: #fbfbfb;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+header .btn-fechar button:hover{
+    box-shadow: 0px 0px 8px #560f725e;
+}
+
+/* -----------------------CORPO----------------------- */
+
+.subtitulo {
+    display: block;
+    margin-left: 40px;
+}
+
+section.corpo-site{
+    padding: 20px 4%;
+}
+
+section.corpo-site .flex{
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.imagem{
+    width: 500px;
+}
+
+.card-body{
+    & audio {
+        width: 100%;
+    }
+}
+
+
+
+
