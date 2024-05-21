@@ -119,8 +119,8 @@ section.corpo-site .flex{
 /* -------------------------RODAPÉ----------------------- */
 
  .divisao-rodape {
-    border-bottom: 5px solid #a91bb6; /* Cor e estilo da linha */
-    margin-bottom: 20px; /* Espaçamento entre a linha e o conteúdo acima */
+    border-bottom: 5px solid #a91bb6; 
+    margin-bottom: 20px; 
     padding-top: 50px;
   }
 
