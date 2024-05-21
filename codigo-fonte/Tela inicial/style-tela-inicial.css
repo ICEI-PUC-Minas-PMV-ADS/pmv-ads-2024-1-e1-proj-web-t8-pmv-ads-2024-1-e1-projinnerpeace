@@ -1,0 +1,160 @@
+/* -------------------ESTILO GERAL------------------ */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #fbfbfb !important;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 4%;
+  }
+
+
+ /* -----------------HEADER----------------------- */
+
+ .cabecalho{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+  
+header{
+    padding: 20px 4%;
+}
+header > .cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-sair, .logo {
+    display: inline-block;
+}
+
+header .btn-sair button{
+    padding: 8px 18px;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #7a339694;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+/* ------------------CORPO------------------ */
+
+main h2{
+    margin-top: 30px;
+}
+
+.btn-praticas a button {
+    display: inline-block;
+    text-align: center;
+}
+
+.botaotres {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);    
+        gap: 10px;
+        align-items: center;
+        margin-top: 60px;
+        font-size: 20px;
+        border: 0;
+        border-radius: 30px;
+}
+
+main button{
+    width: 300px;
+    height: 120px;
+    font-weight: 500px;
+    background-color: aquamarine;
+    border-radius: 15px;
+    border-style:inherit;
+}
+
+main button:hover{
+    box-shadow: 0px 0px 8px #1fe7395e;
+}
+
+.botaodois {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);    
+    gap: 10px;
+    align-items: center;
+    margin-top: 60px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 30px;
+    margin-left: 220px;
+ 
+}
+
+/* -----------------RODAPÉ------------------ */
+
+.divisao-rodape {
+    border-bottom: 5px solid #a91bb6; 
+    margin-bottom: 20px; 
+    padding-top: 50px;
+  }
+
+  footer p{
+    margin-left: 20px;
+  }
+
+
+/* -----------------MODAL---------------- */
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: auto;
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+    max-width: 400px; /* Limita a largura máxima */
+    position: relative;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .btn-container {
+    text-align: right;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 10px 20px;
+   
+  }
+  
+  @media screen and (max-width: 600px) {
+    .modal-content {
+      margin: 20% auto;
+      width: 80%;
+    }
+  }
+  

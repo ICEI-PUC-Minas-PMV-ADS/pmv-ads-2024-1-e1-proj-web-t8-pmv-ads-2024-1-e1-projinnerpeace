@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Erasmo Alves">
+    <meta name="description" content="Pratique meditação com a InnerPeace. Registre suas emoções conforme a abordagem da terapia cognitivo-comportamental para melhor autoconhecimento e bem-estar.">
+    <meta name="keywords" content="meditação, mindfulness, terapia cognitivo-comportamental, registro de emoções, autoconhecimento, bem-estar">
+    <link rel="shortcut icon" href="favicon-_1_.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style-tela-inicial.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    
+    <title>Tela Inicial - InnerPeace</title>
+</head>
+<body>
+    <header>
+        <div class="cabecalho">
+            <img class="logo" src="logo.png" alt="logo Inner">
+
+            <div class="btn-sair">                
+                <button id="logoutBtn">Sair</button>                
+            </div>
+        </div>
+    </header>    
+    
+    <main>
+        <h2>Escolha uma das práticas abaixo:</h2>
+
+        <div class="container">
+
+            <div class="botaotres">
+                <div class="btn-guiada">
+                    <a href="#">
+                        <button>Meditação guiada</button>
+                    </a>
+                </div>    
+    
+                <div class="btn-livre">
+                    <a href="#">
+                        <button>Meditação livre</button>
+                    </a>
+                </div>    
+                
+                <div class="btn-lista">
+                    <a href="#">
+                        <button>Lista de hábitos</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container2">
+
+            <div class="botaodois">
+                <div class="btn-musica">
+                    <a href="codigo-fonte/musicasRelaxantes/index-relaxantes.html">
+                        <button>Músicas relaxantes</button>
+                    </a>
+                </div>    
+    
+                <div class="btn-diario">
+                    <a href="#">
+                        <button>Diário das emoções</button>
+                    </a>
+                </div>    
+                
+            </div>
+        </div>
+   </main>
+
+   <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <p>Tem certeza que deseja sair do aplicativo?</p>
+      <div class="btn-container">
+        <button id="cancelBtn">Cancelar</button>
+        <button id="confirmBtn">Sim</button>
+      </div>
+    </div>
+   </div>
+    
+      
+    <footer>
+        <div class="divisao-rodape"></div>
+        <p>Copyright &copy;2024 INNER PEACE - www.innerpeace.com.br - Todos os direitos reservados</p>
+                   
+    </footer>    
+
+    
+    <script src="script-tela-inicial.js"></script>
+    
+</body>
+</html>
