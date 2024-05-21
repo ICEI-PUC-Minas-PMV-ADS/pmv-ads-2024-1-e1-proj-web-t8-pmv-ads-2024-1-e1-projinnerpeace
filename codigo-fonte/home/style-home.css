@@ -1,13 +1,17 @@
-/* -------------------ESTILO GERAL------------------ */
+
+/* =========ESTILO GERAL========= */
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
+
 body {
-    background-color: #fbfbfb;
+    
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #fbfbfb !important;
   }
+
 .flex{
     display: flex;
 }
@@ -84,8 +88,9 @@ header .btn-cadastro button:hover{
     margin-top: 10px;
 }
 
-section.corpo-site{
-    padding: 20px 4%;
+
+section.corpo-site {
+    padding: 20px 4% 5px 4%;
 }
 
 section.corpo-site .flex{
@@ -105,6 +110,7 @@ section.corpo-site .flex{
 
 .carousel-caption h3{
     color: #000000;
+
 }
   
  section, main{
@@ -116,12 +122,105 @@ section.corpo-site .flex{
     font-size: xx-large;
  }
 
+/* --------------VOCE SABIA----------------- */
+
+ section.sabia {
+    padding: 0 4%;
+    background-color: #efc3f3;
+}
+
+section.sabia .flex{
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.sabia p{
+    font-size: 20px;
+}
+   
+.sabia img{
+    width: 400px;
+}
+
+section.sobre{
+    padding: 25px 14% 0 14%
+}
+
+/* ---------------------DEPOIMENTOS------------------ */
+
+.depoimentos {
+    width: 100%;
+    background: white;
+    text-align: center;
+    padding: 45px 12% 0 12%
+  }
+  
+  .depoimentos-lista {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    text-align: left;
+    padding: 2rem 0;
+  }
+  
+  .depoimentos-lista li {
+    display: grid;
+    grid-template-columns: auto minmax(200px, 1fr);
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  .depoimentos-lista img {
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.08);
+    width: 200px;
+  }
+  
+  .depoimentos-lista h2 {
+    font-size: 1.125rem;
+    margin-bottom: 1rem;
+  }
+  
+  .depoimentos-lista q {
+    font-size: 1rem;
+    line-height: 1.5;
+    font-style: italic;
+  }
+
+/* ----------SERVIÇOS------------ */
+
+.servicos{
+  width: 100%;
+  text-align: center;
+  padding: 30px 3% 0 3%;
+}
+
+.corpo-servicos{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  text-align: left;
+  padding: 2rem 0;
+}
+
+.corpo-servicos li{
+  display: grid;
+  grid-template-columns: auto minmax(200px, 1fr);
+  gap: 1rem;
+  align-items: center;
+}
+
+.servicos .corpo-servicos img{
+    width: 700px;
+}
+
 /* -------------------------RODAPÉ----------------------- */
 
  .divisao-rodape {
-    border-bottom: 5px solid #a91bb6; 
-    margin-bottom: 20px; 
-    padding-top: 50px;
+    border-bottom: 5px solid #a91bb6; /* Cor e estilo da linha */
+    margin-bottom: 20px; /* Espaçamento entre a linha e o conteúdo acima */
+    padding-top: 0;
   }
 
   footer p{
