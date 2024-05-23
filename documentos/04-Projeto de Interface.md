@@ -26,13 +26,13 @@ Nesta categoria apresentaremos cada tela do sistema e suas funcionalidades.
 
 **1 - Tela Página Inicial**
 
-A tela inicial da aplicação será onde os usuários poderão interagir com o site, a página foi dividida em cabeçalho, conteúdo e rodapé. No cabeçalho consta o endereço da página, logo abaixo tem a opção de fazer o login para os usuários cadastros, clicando na opção login a direita. Ao lado do login tem a opção de testar a ferramenta, clicando no botão “Teste Grátis”. A esquerda do cabeçalho tem o botão de home. 
+A tela inicial da aplicação será onde os usuários poderão interagir com o site, a página foi dividida em cabeçalho, conteúdo e rodapé. No cabeçalho consta o endereço da página, logo abaixo tem a opção de fazer o cadastro para os usuários. Ao lado do Cadastro tem a opção de logar na ferramenta. 
 
-No corpo da página, centralizado tem a logo da marca e logo abaixo as funcionalidades da página que os usuários poderão acessar. Cada funcionalidade apresenta um ícone, onde o usuário poderá optar por acessar as meditações, músicas relaxantes, acompanhamento dos hábitos e diários das emoções que serão apresentadas logo abaixo com as respectivas telas. Ao entrar nestas funcionalidades, o usuário precisa clicar no ícone de fechar ao lado direto da página no topo do da tela, para retornar para a página inicial.  
+No corpo da página, centralizado tem a logo da marca e logo abaixo um texto e carrossel com imagens remetendo aos serviços disponibilizados na aplicação. Abaixo encontramos uma seção para estimular o desejo e interesse do usuário que está conhecendo a plataforma. Abaixo uma seção com depoimentos para prova social. Seguido de outra dedicada a falar da solução como um todo e no final pontuando melhor cada uma das soluções da aplicação. 
 
-Já o rodapé tem os links úteis da marca referente as redes sociais, Sobre Nós que apresenta mais sobre a página e como surgiu a ideia. Link de Serviços onde será possível fazer a assinatura e o link de ajuda para entrar em contato com a empresa em caso de dúvida nos acessos da página.  
 
-https://www.figma.com/design/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?node-id=0%3A1&t=Ak3AexaijpAn4Uge-1
+![home-page-0](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/cbf2d677-8761-4dcf-ba13-081a01fcf042)
+
 
 
 Figura 2 - Tela Inicial
