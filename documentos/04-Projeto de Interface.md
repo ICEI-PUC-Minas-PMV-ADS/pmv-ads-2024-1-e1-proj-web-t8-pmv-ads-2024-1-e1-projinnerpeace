@@ -32,7 +32,8 @@ No corpo da página, centralizado tem a logo da marca e logo abaixo as funcional
 
 Já o rodapé tem os links úteis da marca referente as redes sociais, Sobre Nós que apresenta mais sobre a página e como surgiu a ideia. Link de Serviços onde será possível fazer a assinatura e o link de ajuda para entrar em contato com a empresa em caso de dúvida nos acessos da página.  
 
-![alt text](image-2.png)
+https://www.figma.com/design/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?node-id=0%3A1&t=Ak3AexaijpAn4Uge-1
+
 
 Figura 2 - Tela Inicial
 
