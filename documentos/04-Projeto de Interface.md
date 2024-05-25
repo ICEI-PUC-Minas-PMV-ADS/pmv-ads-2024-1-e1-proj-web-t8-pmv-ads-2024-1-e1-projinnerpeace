@@ -57,7 +57,7 @@ Figura 4 - Tela de Cadastro
 
 Esta tela apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que o usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar e retornar para a página inicial. Centralizado a página consta o nome da seção e abaixo as opções de meditações disponíveis, basta o usuário clicar no ícone para dar o play e iniciar a meditação. 
 
-![alt text](image-5.png)
+![alt text](tela-meditacao-guiada-vfinal.PNG)
 
 Figura 5 - Tela de Meditação Guiada
 
@@ -65,7 +65,7 @@ Figura 5 - Tela de Meditação Guiada
 
 A tela de meditação livre também apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que os usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar para a página inicial. Centralizado a página consta o nome da seção, nesta opção o usuário define o tempo de meditação clicando no ícone do relógio e abaixo o ícone para dar o play e iniciá-la.  
 
-![alt text](image-6.png)
+![alt text](tela-meditacao-livre-vfinal.PNG)
 
 Figura 6 - Tela de Meditação Livre
 
