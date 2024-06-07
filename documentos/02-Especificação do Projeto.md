@@ -69,7 +69,7 @@ O projeto apresentará as funcionalidades para atender os usuários conforme def
 | RF-03 | O site deve permitir criação de listas de tarefas                                 | Alto       |
 | RF-04 | O site deve permitir reprodução de áudios                                         | Alto       |
 | RF-05 | O site deve permitir reproduzir meditações guiadas (insônia, ansiedade, estresse, luto, relaxamento, foco, autoestima, saúde, equilíbrio, criança interior etc.)                                                          | Alto       |
-| RF-06 | Deve emitir alertas para meditação no horário definido pelo usuário               | Alto       |
+| RF-06 | O site deve permitir voltar para página inicial após clicar no botão de fechar    | Alto       |
 | RF-07 | Dash board para acompanhar o progresso do usuário                                 | Médio      |
 | RF-08 | Registro de hábitos pelo usuário |Alto 
 | RF-09 | Registro de emoções diárias                                                       | Alto       |
