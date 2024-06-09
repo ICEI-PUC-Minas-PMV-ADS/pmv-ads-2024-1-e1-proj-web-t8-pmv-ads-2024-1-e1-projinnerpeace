@@ -9,8 +9,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Os links internos para as respectivas seções da página inicial estão funcionando corretamente. |
 | Responsável pela execução do caso de Teste | Erasmo Alves |
 
-pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/documentos
-/CT-06.mp4
+[pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/documentos
+/CT-06.mp4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/blob/71ca02d63009be7747266f383cfdb0338fb93574/documentos/CT-06.mp4)
 
 
 
