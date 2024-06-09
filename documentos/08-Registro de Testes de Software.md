@@ -9,5 +9,5 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Os links internos para as respectivas seções da página inicial estão funcionando corretamente. |
 | Responsável pela execução do caso de Teste | Erasmo Alves |
 
-
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/blob/31a155a72565ba0952724f8f1337ef2f4853055e/documentos/CT-06.mp4 
 
