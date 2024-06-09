@@ -9,7 +9,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Os links internos para as respectivas seções da página inicial estão funcionando corretamente. |
 | Responsável pela execução do caso de Teste | Erasmo Alves |
 
+documentos/CT-06.mp4 
 
 
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
