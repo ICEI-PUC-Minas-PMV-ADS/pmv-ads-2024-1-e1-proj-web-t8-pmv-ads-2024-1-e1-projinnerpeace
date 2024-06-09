@@ -9,7 +9,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Os links internos para as respectivas seções da página inicial estão funcionando corretamente. |
 | Responsável pela execução do caso de Teste | Erasmo Alves |
 
-documentos/CT-06.mp4
+pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/documentos
+/CT-06.mp4
+
 
 
 
