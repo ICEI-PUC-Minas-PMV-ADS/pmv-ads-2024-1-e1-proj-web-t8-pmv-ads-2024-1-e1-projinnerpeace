@@ -9,7 +9,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Os links internos para as respectivas seções da página inicial estão funcionando corretamente. |
 | Responsável pela execução do caso de Teste | Erasmo Alves |
 
-https://www.loom.com/share/d4910340f90b4c868214cc39325affb8?sid=c6784eae-243b-4497-857e-2179f1d0fac7 
+
 
 
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
