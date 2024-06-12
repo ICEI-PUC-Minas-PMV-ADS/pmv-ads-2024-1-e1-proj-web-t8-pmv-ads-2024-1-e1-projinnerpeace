@@ -106,6 +106,10 @@ Trata-se da tela de login,a tela foi criada com a linguagem de marcaçao HTML E 
 
 O site deve permitir fazer login ,permitir fazer o cadastro.
 
+Exemplo da tela de login:
+
+![](/codigo-fonte/Login/tela%20de%20login.png)
+
 
 
 ### instruçoes de acesso
@@ -114,6 +118,19 @@ http://127.0.0.1:5501/login.html
 
 <!-- Reaponsavel pelo desenvolvimento -->
 Monica eloisa 
+
+### Tela de cadastro
+
+Trata-se da tela de cadastro,a tela foi criada com a linguagem de marcaçao HTML E CSS.
+
+### Requisitos
+
+O site deve permitir fazer cadastro ,se ja haver cadastro realizar login.
+
+Exemplo da tela de cadastro:
+![](/codigo-fonte/cadastro/tela%20de%20cadastro.png)
+<!-- Reaponsavel pelo desenvolvimento -->
+Monica eloisa
 
 
 
