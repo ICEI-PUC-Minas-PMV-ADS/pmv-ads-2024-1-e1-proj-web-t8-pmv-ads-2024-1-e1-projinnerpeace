@@ -127,6 +127,11 @@ Trata-se da tela de cadastro,a tela foi criada com a linguagem de marcaçao HTML
 
 O site deve permitir fazer cadastro ,se ja haver cadastro realizar login.
 
+### instruçoes de acesso
+abra o navegador na seguinte URL;
+
+http://127.0.0.1:5500/codigo-fonte/cadastro/cadastro_index.html
+
 Exemplo da tela de cadastro:
 ![](/codigo-fonte/cadastro/tela%20de%20cadastro.png)
 <!-- Reaponsavel pelo desenvolvimento -->
