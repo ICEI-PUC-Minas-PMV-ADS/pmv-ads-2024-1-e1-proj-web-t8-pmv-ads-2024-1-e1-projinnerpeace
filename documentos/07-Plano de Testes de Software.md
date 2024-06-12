@@ -156,3 +156,38 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Refistrar as emoções e voltar para a página inicial clicando no botão fechar</td>
   <td>Graziela</td>
  </tr>
+
+
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+  <th></th>
+ </tr>
+ <tr>
+  <td>CT-06: Apresentação da solução</td>
+  <td>
+   <ul>
+   <li>RF-013: Deve conter na página inicial links com informações do funcionamento da aplicação.</li>
+   </ul>
+  </td>
+  <td>Verificar links que dão acesso às diferentes seções informação da página inicial.</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>No cabeçalho da página inicial clicar em “Sobre nós”.</li>
+    <li>No cabeçalho da página inicial clicar em "Serviços".</li>
+    <li>No cabeçalho da página inicial clicar em "Depoimentos".</li>
+   </ol>
+   </td>
+  <td>Os links internos para as respectivas seções da página inicial estão funcionando corretamente.</td>
+  <td>Erasmo Alves</td>
+ </tr>
