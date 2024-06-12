@@ -14,11 +14,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(image/userflow.jpg);
+    background-image: url(image/logo.png);
     background-repeat: no-repeat;
     background-size: 50%;
     background-position: center;
-    background-color: lor: rgba(255, 255, 255,;
+    background-color: rgb(213, 112, 183);
 }
 
 .login{
