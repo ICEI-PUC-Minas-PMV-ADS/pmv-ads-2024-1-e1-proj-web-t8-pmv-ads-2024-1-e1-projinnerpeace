@@ -114,7 +114,7 @@ Exemplo da tela de login:
 
 ### instruçoes de acesso
 abra o navegador na seguinte URL;
-http://127.0.0.1:5501/login.html
+http://127.0.0.1:5502/login.html
 
 <!-- Reaponsavel pelo desenvolvimento -->
 Monica eloisa 
