@@ -28,15 +28,15 @@ O objetivo geral deste projeto é criar uma aplicação web que traga melhor qua
 
 Como objetivos específicos:  
 
-Melhoria da saúde mental do usuário pela prática regular de meditação; 
+- Melhoria da saúde mental do usuário pela prática regular de meditação; 
 
-Aumentar a consciência emocional permitindo identificar padrões de sentimentos e suas reações com o registro diário de emoções; 
+- Aumentar a consciência emocional permitindo identificar padrões de sentimentos e suas reações com o registro diário de emoções; 
 
-Promover a redução de estresse com estímulos de prática diária de meditação e gestão mais eficaz das emoções negativas; 
+- Promover a redução de estresse com estímulos de prática diária de meditação e gestão mais eficaz das emoções negativas; 
 
-Melhoria do foco e da clareza mental na combinação de meditação (que aprimora a capacidade de concentração e atenção plena) com registro de emoções (que ajuda a liberar pensamentos e sentimentos, resultando numa mente mais clara e focada); 
+- Melhoria do foco e da clareza mental na combinação de meditação (que aprimora a capacidade de concentração e atenção plena) com registro de emoções (que ajuda a liberar pensamentos e sentimentos, resultando numa mente mais clara e focada); 
 
-Aprimoramento das relações interpessoais. Ao compreender melhor suas próprias emoções e reações os usuários podem desenvolver uma comunicação mais eficaz e empática de modo que melhore seus relacionamentos pessoais e profissionais.
+- Aprimoramento das relações interpessoais. Ao compreender melhor suas próprias emoções e reações os usuários podem desenvolver uma comunicação mais eficaz e empática de modo que melhore seus relacionamentos pessoais e profissionais.
  
 
 ## Justificativa
@@ -56,17 +56,17 @@ Apesar dos dados alarmantes de aumento de ansiedade e depressão na população 
 
 Guiados pelas pesquisas em campo com potenciais usuários desta aplicação que atendam nosso escopo de abrangência encontramos algumas características em comum:  
 
-Interesse em bem-estar emocional: Todos eles demonstraram um interesse ativo em melhorar sua saúde mental e emocional, buscando formas práticas de lidar com o estresse, ansiedade e depressão; 
+- Interesse em bem-estar emocional: Todos eles demonstraram um interesse ativo em melhorar sua saúde mental e emocional, buscando formas práticas de lidar com o estresse, ansiedade e depressão; 
 
-Abertura para novas experiências: Esses potenciais usuários demonstraram-se dispostos a experimentar novas técnicas e abordagens como meditação para desenvolver habilidades de autorregulação emocional; 
+- Abertura para novas experiências: Esses potenciais usuários demonstraram-se dispostos a experimentar novas técnicas e abordagens como meditação para desenvolver habilidades de autorregulação emocional; 
 
-Necessidade de orientação: Embora possam ter algum conhecimento básico de meditação, eles buscam orientação adicional para aprimorar sua técnica e compreender melhor os benefícios dessa prática; 
+- Necessidade de orientação: Embora possam ter algum conhecimento básico de meditação, eles buscam orientação adicional para aprimorar sua técnica e compreender melhor os benefícios dessa prática; 
 
-Consistência na prática: Embora alguns potenciais usuários que participaram da pesquisa tenham alguma experiência com meditação eles demonstraram interesse num estímulo dado por uma aplicação para a prática regular de meditação. Reconhecendo os benefícios de uma rotina consistente; 
+- Consistência na prática: Embora alguns potenciais usuários que participaram da pesquisa tenham alguma experiência com meditação eles demonstraram interesse num estímulo dado por uma aplicação para a prática regular de meditação. Reconhecendo os benefícios de uma rotina consistente; 
 
-Abertura para tecnologia: Esses participantes da pesquisa demonstraram-se confortáveis em usar aplicativos e ferramentas digitais como parte de sua rotina de autocuidado; 
+- Abertura para tecnologia: Esses participantes da pesquisa demonstraram-se confortáveis em usar aplicativos e ferramentas digitais como parte de sua rotina de autocuidado; 
 
-Desenvolvimento pessoal: Eles demonstraram valorizar oportunidades de crescimento pessoal e estão dispostos a se envolver em práticas de autorreflexão e autodesenvolvimento, como o registro diário de emoções. 
+- Desenvolvimento pessoal: Eles demonstraram valorizar oportunidades de crescimento pessoal e estão dispostos a se envolver em práticas de autorreflexão e autodesenvolvimento, como o registro diário de emoções. 
 
  
 
