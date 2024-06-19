@@ -152,9 +152,16 @@ main button:hover{
   }
   
   @media screen and (max-width: 600px) {
-    .modal-content {
-      margin: 20% auto;
-      width: 80%;
+    .botaotres {
+        grid-template-columns: 1fr;
     }
-  }
-  
+    .botaodois {
+        grid-template-columns: 1fr;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .modal-content {
+        margin: 20% auto;
+        width: 80%;
+    }
+}
