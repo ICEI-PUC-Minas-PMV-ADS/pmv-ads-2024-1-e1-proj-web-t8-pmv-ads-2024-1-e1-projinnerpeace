@@ -1,6 +1,6 @@
 if (localStorage.getItem("token") == null) {
     alert("Você precisa estar logado para acessar essa página");
-    window.location.href = "";
+    window.location.href = "http://127.0.0.1:5502/login.html";
   }
   
   let userLogado = JSON.parse(localStorage.getItem("userLogado"));
