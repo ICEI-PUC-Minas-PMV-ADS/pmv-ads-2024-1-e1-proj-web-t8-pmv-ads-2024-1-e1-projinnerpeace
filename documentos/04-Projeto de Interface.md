@@ -3,7 +3,7 @@
 
 ## User Flow
 
-O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. 
+O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. Para visualizar o protótipo deste projeto acesso o artefato pelo link: https://www.figma.com/design/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?node-id=0-1 
 
 ![alt text](image-1.png)
 Figura 1 - Fluxo de telas dos usuários
