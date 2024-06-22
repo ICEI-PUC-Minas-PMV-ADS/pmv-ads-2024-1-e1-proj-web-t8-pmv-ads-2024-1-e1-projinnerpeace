@@ -38,6 +38,12 @@ Tua Saúde. Sintomas de ansiedade: sinais físicos e psicológicos, 2021. Dispon
 
 Vida Saudável. Ansiedade: o que é, principais sintomas e como controlar, 2023. Disponível em: <https://vidasaudavel.einstein.br/ansiedade/>. Acesso em: 01/03/2024 
 
+SUTHERLAND, Jeff. **Scrum: A arte de fazer o dobro de trabalho pela metade do tempo**. 1. ed. São Paulo: Leya, 2014.
+
+
+
+
+
  
 
 World Health Organization. Mental Health Action Plan 2013-2030 flyer: what Member States can do, 2021. Disponível em: <https://www.who.int/publications/m/item/mental-health-action-plan-2013-2030-flyer-what-member-states-can-do>. Acesso em: 01/03/2024 
