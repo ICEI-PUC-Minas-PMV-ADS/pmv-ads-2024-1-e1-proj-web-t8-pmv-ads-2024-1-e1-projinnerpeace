@@ -5,9 +5,9 @@ Neste projeto será usado a metodologia SCRUM, uma ferramenta flexível que perm
 
 ## Gerenciamento de Projeto
 
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são:
+Para a gestão deste projeto, optamos pela metodologia ágil Scrum, conhecida por sua capacidade de promover um desenvolvimento iterativo e incremental, garantindo entregas contínuas e melhorias constantes ao longo do ciclo de vida do projeto.
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+O Scrum, co-criado por Jeff Sutherland, é uma abordagem ágil que facilita a colaboração e comunicação eficiente entre as equipes. Sutherland destaca que "Scrum é projetado para ser um quadro leve que ajuda as pessoas, as equipes e as organizações a gerar valor por meio de soluções adaptativas para problemas complexos" . Este framework foi essencial para manter nosso time alinhado e focado nos objetivos do projeto, permitindo-nos responder rapidamente a mudanças e novos desafios.
 
 ### Divisão de Papéis
 
