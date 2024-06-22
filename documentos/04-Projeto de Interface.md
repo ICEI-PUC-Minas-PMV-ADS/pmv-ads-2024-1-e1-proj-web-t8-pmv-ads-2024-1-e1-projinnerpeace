@@ -31,7 +31,7 @@ A tela inicial da aplicação será onde os usuários poderão interagir com o s
 No corpo da página, centralizado tem a logo da marca e logo abaixo um texto e carrossel com imagens remetendo aos serviços disponibilizados na aplicação. Abaixo encontramos uma seção para estimular o desejo e interesse do usuário que está conhecendo a plataforma. Abaixo uma seção com depoimentos para prova social. Seguido de outra dedicada a falar da solução como um todo e no final pontuando melhor cada uma das soluções da aplicação. 
 
 
-![alt text](documentos/img/tela_inicial.png) 
+![alt text](tela_inicial.png) 
 
 
 Figura 2 - Tela Inicial
