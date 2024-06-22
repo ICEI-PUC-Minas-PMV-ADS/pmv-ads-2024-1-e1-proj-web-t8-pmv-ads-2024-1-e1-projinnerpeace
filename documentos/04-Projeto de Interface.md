@@ -31,8 +31,7 @@ A tela inicial da aplicação será onde os usuários poderão interagir com o s
 No corpo da página, centralizado tem a logo da marca e logo abaixo um texto e carrossel com imagens remetendo aos serviços disponibilizados na aplicação. Abaixo encontramos uma seção para estimular o desejo e interesse do usuário que está conhecendo a plataforma. Abaixo uma seção com depoimentos para prova social. Seguido de outra dedicada a falar da solução como um todo e no final pontuando melhor cada uma das soluções da aplicação. 
 
 
-![home-page-0](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/assets/114961595/cbf2d677-8761-4dcf-ba13-081a01fcf042)
-
+documentos/img/tela inicial prototipo.png 
 
 
 Figura 2 - Tela Inicial
