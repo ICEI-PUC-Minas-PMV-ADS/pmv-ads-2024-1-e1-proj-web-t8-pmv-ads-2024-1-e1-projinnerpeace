@@ -17,35 +17,42 @@
             <p> Já é um membro? <a href="http://127.0.0.1:5502/login.html"> Login </a> </p>
             <form action="#">
                 <div class="input-group">
-                    <label for="nome"> Nome Completo</label>
-                    <input type="text" id="nome" placeholder="Digite o seu nome completo" required>
+                    <label for="nome"> Nome Completo *</label>
+                    <input  type="text" id="nome"   placeholder="Digite o seu nome completo" required>
+                    
                 </div>
 
                 <div class="input-group">
-                    <label for="email">E-mail</label>
+                    <label for="email">E-mail *</label>
                     <input type="email" id="email" placeholder="Digite o seu email" required>
                 </div>
 
                 <div class="input-group">
-                    <label for="telefone">Telefone</label>
+                    <label for="telefone">Telefone *</label>
                     <input type="tel" id="telefone" placeholder="Digite o seu telefone" required>
                 </div>
 
                 <div class="input-group w50">
-                    <label for="senha">Senha</label>
+                    <label for="senha">Senha *</label>
                     <input type="password" id="senha" placeholder="Digite sua senha" required>
                 </div>
 
                 <div class="input-group w50">
-                    <label for="Confirmarsenha">Confirmar Senha</label>
+                    <label for="Confirmarsenha">Confirmar Senha *</label>
                     <input type="password" id="Confirmarsenha" placeholder="Confirme a senha" required>
                 </div>
-
+                <p>
+                    Campos obrigatórios(*)
+                </p>
                 <div class="input-group">
-                    <button>Cadastrar</button>
-                </div>
-                <script src="js/scripts.js"></script>
+                    <button onclick=" return cadastrar()" class="button" id="botao" >Cadastrar</button>               
+                 </div>
 
+            </form>
+            <footer class="rodape">
+                <p>Copyright &copy;2024 INNER PEACE - www.innerpeace.com.br - Todos os direitos reservados</p>
+            </footer> 
+            <script src="js/scripts.js"></script>
             </form>
         </div>
     </div>
