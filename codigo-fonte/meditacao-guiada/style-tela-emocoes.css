@@ -7,3 +7,37 @@ body
 
 
 
+.row-striped:nth-of-type(odd){
+    background-color: #efefef;
+    border-left: 4px #000000 solid;
+  }
+  
+  .row-striped:nth-of-type(even){
+    background-color: #ffffff;
+    border-left: 4px #efefef solid;
+  }
+  
+  .row-striped {
+      padding: 15px 0;
+  }
+
+  .btnradio-heart{
+    color: pink 
+  }
+  
+
+img.filter{
+    filter: brightness(0) invert(1);
+    transform: scale(0.7);
+    padding: 1%;
+    margin-bottom: 5px;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 12pt
+}
+button.icon{
+    font-size: 3rem;
+    filter: brightness(0) invert(1);
+}

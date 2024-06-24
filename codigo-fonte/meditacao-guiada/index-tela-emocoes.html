@@ -6,64 +6,87 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>DIÁRIO DAS EMOÇÕES</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <script defer src="script-Crud.js"></script>
         <link rel="stylesheet" href="style-tela-emocoes.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">        
     </head>
     <body>
         <!--Título da página-->
-        <a href="../home/index-home.html"><button onClick="fechar()" type="button" class="btn btn-default btn-circle icon"><i class="bi-x-circle"></i></button></a>
         <div class="containter">
             <div class="row">
-                <div class="col  text-center text-light">
+                <div class="col-11  text-center text-light">
                     <h2>DIÁRIO DAS EMOÇÕES</h2>
                 </div>
+                <div class="col-1">
+                    <button id="btnFechar" type="button" class="btn btn-default btn-circle icon"><i class="bi-x-circle"></i></button>
+                </div>
             </div>
-            <div class="row text-center">
-                <div class="col m-4 bg-light">                    
-                <!--Bloco para anotar as emoções-->                   
-                    <h4>Como Foi Seu Dia?</h4>
-                <!--1º pergunta-->
+            <div class="row"> 
+                    
+        <!--Bloco para identificar emoções-->
+                <div class="col m-6 mx-2 text-center bg-light">
+                    <input type="hidden" id="campoId" value="">
+                    <input type="hidden" id="campoData" value="">
+                    <!--Bloco para anotar as emoções-->                   
+                    <h4>Como você está se sentindo?</h4>
+
+                    <div class="btn-group" role="group">
+                        
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_laughing" value="laughing" autocomplete="off"><Icon icon="bi:emoji-smile" />
+                        <label class="btn btn-outline-success" for="btnradio_laughing"><i class="bi bi-emoji-laughing"></i></label>
+
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_smile" value="smile" autocomplete="off">
+                        <label class="btn btn-outline-warning" for="btnradio_smile"><i class="bi bi-emoji-smile"></i></label>
+                        
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_heart" value="heart-eyes" autocomplete="off">
+                        <label class="btn btn-outline-info" for="btnradio_heart"><i class="bi bi-emoji-heart-eyes"></i></label>
+                        
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_neutral" value="neutral" autocomplete="off">
+                        <label class="btn btn-outline-secondary" for="btnradio_neutral"><i class="bi bi-emoji-neutral"></i></label>
+                        
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_frown" value="frown" autocomplete="off">
+                        <label class="btn btn-outline-primary" for="btnradio_frown"><i class="bi bi-emoji-frown"></i></label>
+
+                        <input type="radio" class="btn-check" name="btnradio" id="btnradio_angry" value="angry" autocomplete="off">
+                        <label class="btn btn-outline-danger" for="btnradio_angry"><i class="bi bi-emoji-angry"></i></label>
+                    </div> 
+                    <br>
+                    <br>
+                    <!--1º pergunta-->
                     <div class="form-floating mb-3">
-                        <input type="text" class="form-control" id="CampoSentindo">
-                        <label for="CampoSentindo">Como você está se sentindo? <i class="bi bi-pencil-square"></i></label>
+                        <input type="text" class="form-control" id="CampoBem">
+                        <label for="CampoBem">O que te fez bem? </label>
                     </div>
                     <!--2º pergunta-->
                     <div class="form-floating mb-3">
-                        <input type="text" class="form-control" id="CampoBem">
-                        <label for="CampoBem">O que te fez bem? <i class="bi bi-pencil-square"></i></label>
-                    </div>
-                    <!--3º pergunta-->
-                    <div class="form-floating mb-3">
                         <input type="text" class="form-control" id="CampoMal">
-                        <label for="CampoMal">O que te fez mal? <i class="bi bi-pencil-square"></i></label>
-                    </div>                    
-                </div>       
-        <!--Bloco para identificar emoções-->
-                <div class="col m-4 text-center bg-light">
-                    <h4>Como você está agora?</h4>
-                        <ul><i class="bi bi-emoji-smile"></i></ul>
-                        <ul><i class="bi bi-emoji-grin"></i></ul>
-                        <ul><i class="bi bi-emoji-heart-eyes"></i></ul>
-                        <ul><i class="bi bi-emoji-neutral"></i></ul>
-                        <ul><i class="bi bi-emoji-expressionless"></i></ul>
-                        <ul><i class="bi bi-emoji-frown"></i></ul>
-                        <ul><i class="bi bi-emoji-angry"></i></ul>
-                        <ul><i class="bi bi-emoji-tear"></i></ul>
-                        
-                </div>
-        <!--Bloco para criar cartão de enfrentamento-->
-                <div class="col m-4 text-center bg-light">
-                    <h4>Cartão de Enfrentamento</h4>
-                    <input type="text" class="form-control" id="CampoCartão">
-                        <label for="CampoCartão"></label>
-                    <input type="text" class="form-control" id="CampoCartão">
-                        <label for="CampoCartão"></label>
-                    <input type="text" class="form-control" id="CampoCartão">
-                        <label for="CampoCartão"></label>
-                    <input type="text" class="form-control" id="CampoCartão">
-                        <label for="CampoCartão"></label>        
+                        <label for="CampoMal">O que te fez mal? </label>
+                    </div> 
+                    <div>
+                        <button id="btnSalvar" type="button" class="btn btn-outline-primary">Salvar</button>
+                        <button id="btnVoltar" type="button" class="btn btn-outline-secondary">Voltar</button>
+                    </div>    
+<!--colocar botão-->
+
                     
                 </div> <!-- cold-md-4 -->
+
+                <div class="col m-6 mx-2 text-center bg-light">
+                    <div>
+                        <fieldset>
+                            <label for="">Selecione a Data:
+                                <input id="dataFiltro" type="date" name="" value="">
+                            </label>
+                        </fieldset>
+                    </div>
+
+                   <div class="container" id="historicoEntradas">
+                        <!-- listagem das emoções no arquivo do Crud JS -->
+
+                   </div>
+                </div>
+
+
             </div> <!-- row -->
         </div> <!-- container -->
     </body>
