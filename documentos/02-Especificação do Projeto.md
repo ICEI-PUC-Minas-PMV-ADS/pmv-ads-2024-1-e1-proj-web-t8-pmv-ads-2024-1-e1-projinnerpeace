@@ -65,18 +65,18 @@ O projeto apresentará as funcionalidades para atender os usuários conforme def
 |ID     | Descrição                                                                         | Prioridade |
 |-------|-----------------------------------------------------------------------------------|------------|
 | RF-01 | O site deve permitir o cadastro de perfil e usuário                               | Alto       | 
-| RF-02 | O site deve permitir o registro de textos com acesso privado dos usuários         | Alto       |
+| RF-02 | O site deve permitir o registro de textos das emoções com acesso privado dos usuários| Alto       |
 | RF-03 | O site deve permitir criação de listas de tarefas                                 | Alto       |
 | RF-04 | O site deve permitir reprodução de áudios                                         | Alto       |
-| RF-05 | O site deve permitir reproduzir meditações guiadas (insônia, ansiedade, estresse, luto, relaxamento, foco, autoestima, saúde, equilíbrio, criança interior etc.)                                                          | Alto       |
+| RF-05 | O site deve permitir reproduzir meditações guiadas                                | Alto       |
 | RF-06 | O site deve permitir voltar para página inicial após clicar no botão de fechar nos serviços    | Alto       |
-| RF-07 | Dash board para acompanhar o progresso do usuário                                 | Médio      |
-| RF-08 | Registro de hábitos pelo usuário |Alto 
+| RF-07 | O site deve permitir escolher o tempo de meditação nos serviços de meditação livre| Médio      |
+| RF-08 | O site deve permitir pesquisar as meditações disponíveis                          |Alto 
 | RF-09 | Registro de emoções diárias                                                       | Alto       |
-| RF-10 | O sistema deve apresentar as meditações disponíveis com base na emoção registrada | Médio      |
+| RF-10 | O sistema deve permitir alterar ou excluir as emoções registradas                 | Médio      |
 | RF-11 | O sistema deve fornecer campo de busca para o usuário pesquisar pelas meditações  | Médio      |
 | RF-12 | O site terá uma página inicial com apresentação das principais funcionalidades    | Alto       |
-| RF-13 | Deve conter na página inicial links com informações do funcionamento da aplicação | Alto       |
+| RF-13 | O site deve permitir consultar no calendário as emoções registradas               | Alto       |
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
