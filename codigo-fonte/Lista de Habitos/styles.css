@@ -8,7 +8,7 @@
   }
   
   body {
-    background-color:#374151;
+    background-color:blueviolet;
     background-position: center;
     background-size: cover;
   }
@@ -74,7 +74,7 @@
     margin: 0.5rem 0.5rem 0.5rem;
     width: 1400rem;
     height: 9rem;
-    background-color: #475569;
+    background-color: blueviolet;
     position: relative;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
@@ -88,7 +88,7 @@
     margin-left: 5.625rem;
     width: 4.688rem;
     height: 4.688rem;
-    background-color: #374151;
+    background-color: blueviolet;
     border-radius: 50%;
     position: absolute;
 }
@@ -97,7 +97,7 @@
     margin-left: 12.5rem;
     width: 4.688rem;
     height: 4.688rem;
-    background-color: #374151;
+    background-color: blueviolet;
     border-radius: 50%;
     position: absolute;
 }
@@ -106,7 +106,7 @@
     margin-left: 19.375rem;
     width: 4.688rem;
     height: 4.688rem;
-    background-color: #374151;
+    background-color: blueviolet;
     border-radius: 50%;
     position: absolute;
 }

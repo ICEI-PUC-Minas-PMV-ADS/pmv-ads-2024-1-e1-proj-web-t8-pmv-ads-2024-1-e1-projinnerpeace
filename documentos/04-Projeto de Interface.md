@@ -3,9 +3,9 @@
 
 ## User Flow
 
-O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e de algumas funcionalidades do projeto como as meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. Para visualizar o protótipo deste projeto acesso o artefato pelo link: https://www.figma.com/design/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?node-id=0-1 
+O fluxograma da figura 1, representa as páginas que os usuários irão acessar na aplicação. Foram criados os layouts da página inicial, página de login, de primeiro cadastro e das funcionalidades do projeto: meditações, músicas relaxantes, diário das emoções, lista de hábitos. Em seguida explicaremos cada uma destas telas. Para visualizar o protótipo deste projeto acesso o artefato pelo link: https://www.figma.com/design/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?node-id=0-1 
 
-![alt text](image-1.png)
+![alt text](../documentos/img/TELAS%20PRONTAS.png)
 Figura 1 - Fluxo de telas dos usuários
 
 
@@ -54,17 +54,17 @@ Figura 4 - Tela de Cadastro
 
 **4 - Tela de Meditação Guiada**
 
-Esta tela apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que o usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar e retornar para a página inicial. Centralizado a página consta o nome da seção e abaixo as opções de meditações disponíveis, basta o usuário clicar no ícone para dar o play e iniciar a meditação. 
+Esta tela apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que o usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar e retornar para a página inicial. A esquerda consta a barra de pesquisa para busca de outras meditações. Centralizado a página consta o nome da seção e abaixo as opções de meditações disponíveis, basta o usuário clicar no ícone para dar o play e iniciar a meditação. 
 
-![alt text](tela-meditacao-guiada-vfinal.PNG)
+![alt text](../documentos/img/TELA-MEDIT-GUIADA-VFINAL.PNG)
 
 Figura 5 - Tela de Meditação Guiada
 
 **5 - Tela de Meditação Livre**
 
-A tela de meditação livre também apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que os usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar para a página inicial. Centralizado a página consta o nome da seção, nesta opção o usuário define o tempo de meditação clicando no ícone do relógio e abaixo o ícone para dar o play e iniciá-la.  
+A tela de meditação livre também apresenta uma das funcionalidades da aplicação, o layout foi alterado para apresentar apenas a seção que os usuários está, sem interferências visuais do cabeçalho e rodapé para que haja foco no momento da meditação. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar para a página inicial. A esquerda consta as instruções para o usuário. A direita tem uma barra de tempo para o usuário definir o tempo de meditação. Abaixo pode optar por fazer a meditação sem música, somente com a opção de um sino de alerta ao início e fim ou escolher os três sons disponíves na plataforma. Ao definir estes parametros é só o usuário clicar no botão play. Irá abrir uma caixa suspensa que irá mostrar o tempo definido e ao final do timer, a mensagem de meditação finalizada. 
 
-![alt text](tela-meditacao-livre-vfinal.PNG)
+![alt text](..//documentos/img/TELA-MEDIT-LIVRE-VFINAL.PNG)
 
 Figura 6 - Tela de Meditação Livre
 
@@ -86,8 +86,8 @@ Figura 8 - Tela Músicas Relaxantes
 
 **8 - Diário das Emoções**
 
-Nesta página o layout também apresenta apenas a seção que o usuários está. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar a página inicial. Centralizado a página consta o nome da seção e abaixo os quadros para o usuário preencher suas experiências pessoais. Na opção Como foi seu dia?, o usuário deverá preencher os três campos, clicando no botão de editar. A opção Como você está agora? O usuário deverá marcar as emoções que mais se adequam ao momento atual. E por último a opção Cartão de Enfrentamento onde o usuário poderá incluir frases ou situações que precisa de mais comprometimento em seu dia a dia. 
+Nesta página o layout também apresenta apenas a seção que o usuários está. Esta opção ficará em tela cheia. A direita no alto da página consta o ícone com a opção de fechar esta seção e retornar a página inicial. Centralizado a página consta o nome da seção e abaixo os quadros para o usuário preencher suas experiências pessoais. Na opção 'Como você está se sentindo?' o usuário deverá clicar nos ícones que representam a emoção e nos campos abaixo 'O que te fez bem?' e 'O que te fez mal?' fazer as anotações pertinentes aos acontecimentos, em seguida clica em Salvar para fazer o registro que irá aparecer a direita da página com os últimos registros. É possível editar ou excluir um registro e pesquisar por data no calendário suspenso. 
 
-![alt text](image-9.png)
+![alt text](../documentos/img/TELA-DIARIO-EMOCOES-VFINAL.PNG)
 
 Figura 9 - Tela Diário das Emoções
