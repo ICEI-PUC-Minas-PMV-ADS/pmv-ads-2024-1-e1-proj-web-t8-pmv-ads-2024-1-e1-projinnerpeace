@@ -9,7 +9,7 @@ A apresentação do projeto consiste na geração de um conjunto de slides em um
 > - Solução Implementada (funcionalidades de software)
 > - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado).
 
-[INNERPEACE - APRESENTAÇÃO 1 º ETAPA.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/files/14972061/INNERPEACE.-.APRESENTACAO.FINAL.pdf)
+[INNERPEACE - APRESENTAÇÃO FINAL](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/files/14972061/INNERPEACE.-.APRESENTACAO.FINAL.pdf)
 
 ## Vídeo de apresentação
 
