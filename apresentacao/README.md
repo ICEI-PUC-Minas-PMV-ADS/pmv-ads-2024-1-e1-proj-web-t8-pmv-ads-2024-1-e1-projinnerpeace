@@ -2,18 +2,17 @@
 
 ## Conjunto de Slides
 
-A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
+A apresentação deste projeto contempla os seguintes itens:
 
-> - Contexto (Problema, Público-alvo)
-> - Requisitos
-> - Solução Implementada (funcionalidades de software)
-> - Conclusão da elaboração do projeto (pontos positivos, desafios, aprendizado).
+- Descrição de Contexto
+- Problema 
+- Objetivos
+- Justificativa
+- Perfil dos Usuários
+- Requisitos do Projeto
+- Conclusão
 
-<<<<<<< Updated upstream
 [INNERPEACE - APRESENTAÇÃO FINAL](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/files/14972061/INNERPEACE.-.APRESENTACAO.FINAL.pdf)
-=======
-[INNERPEACE - APRESENTAÇÃO 1 º ETAPA.pdf](../apresentacao/INNERPEACE%20-%20APRESENTAÇÃO%20FINAL.pdf)
->>>>>>> Stashed changes
 
 ## Vídeo de apresentação
 
