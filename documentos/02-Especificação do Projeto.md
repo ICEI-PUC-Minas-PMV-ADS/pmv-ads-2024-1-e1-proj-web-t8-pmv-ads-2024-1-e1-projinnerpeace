@@ -70,7 +70,6 @@ O projeto apresentará as funcionalidades para atender os usuários conforme def
 | RF-04 | O site deve permitir reprodução de áudios                                         | Alto       |
 | RF-05 | O site deve permitir reproduzir meditações guiadas                                | Alto       |
 | RF-06 | O site deve permitir voltar para página inicial após clicar no botão de fechar nos serviços    | Alto       |
-| RF-07 | O site deve permitir escolher o tempo de meditação nos serviços de meditação livre| Médio      |
 | RF-08 | O site deve permitir pesquisar as meditações disponíveis                          |Alto 
 | RF-09 | Registro de emoções diárias                                                       | Alto       |
 | RF-10 | O sistema deve permitir alterar ou excluir as emoções registradas                 | Médio      |
@@ -90,7 +89,6 @@ O projeto apresentará as funcionalidades para atender os usuários conforme def
 | RNF-05 | O sistema deve funcionar 24 h por dia e 7 dias por semana                                                    | Alto     |
 | RNF-06 | O sistema deve suportar mais 100 mil acesso de uma vez                                                       | Alto     |
 | RNF-07 | O sistema deve garantir a segurança e privacidade dos dados dos usuários                                     | Alto     |
-| RNF-08 | O sistema deve recuperar de falhas em no máximo 2 segundo                                                    | Alto     |
 | RNF-09 | O sistema deve permitir a migração para novas plataformas em 4 meses                                         | Médio    |
 **Prioridade: Alta / Média / Baixa. 
 
