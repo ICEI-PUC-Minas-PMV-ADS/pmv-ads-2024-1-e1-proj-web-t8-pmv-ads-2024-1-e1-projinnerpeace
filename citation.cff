@@ -1,5 +1,5 @@
 message: Please cite this software using these metadata.
-title:"pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace"
+title:Projeto InnerPeace
 authors:
   - family-names: Alves Junior
     given-names:Erasmo 
@@ -16,7 +16,6 @@ authors:
  keywords:
   - Meditação 
   - Emoçao
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace
 version: 1.0.0
 date-released: 2024-07-01
-repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace
-
