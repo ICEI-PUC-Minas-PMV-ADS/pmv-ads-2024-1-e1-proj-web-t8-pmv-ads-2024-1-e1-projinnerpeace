@@ -65,7 +65,7 @@ listaMeditacoes=[
 
         {
         id:4,
-        nome:"O propósito da Meditação",
+        nome:"O Propósito da Meditação",
         descricao:"Ouça sua voz interna através desta meditação para encontre as respostas em seu coração",
         imagem:"Imagens/meditation.png"
     },
