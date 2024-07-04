@@ -62,7 +62,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             | [Link](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/tree/main)                            |
 | Projeto de Interface                | Figma                              | [Link](https://www.figma.com/file/K7EaIyz4yAw8Q3a09mcn4p/Inner-Peace?type=design&node-id=0%3A1&mode=design&t=j3i3Qp3xOUf11dHI-1)          |
 | Gerenciamento do Projeto            | GitHub Projects                    | [Link](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1022/views/1)                            |
-| Hospedagem                          | GitHub Pages                       | N/A                            |
+| Hospedagem                          | GitHub Pages                       | [Link](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace/codigo-fonte/home/index-home.html)                            |
 
 
 ### Estratégia de Organização de Codificação 
