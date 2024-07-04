@@ -1,22 +1,23 @@
-message: "If you use this software, please cite it as below."
-title: "Projeto InnerPeace"
+message: If you use this software, please cite it as below.
+title: Projeto InnerPeace
 authors:
   - family-names: Alves junio
-    given-names:  Erasmo
+    given-names: Erasmo
   - family-names: Nunes Caldeira
     given-names: Graziela
   - family-names: Eloisa da silva
     given-names: Monica
   - family-names: Antonio barros
     given-names: Pedro
-    - name-suffix: Professor
+  - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Soares Vieira de Vasconcelos
     given-names: Amalia
 keywords:
-  - Meditaçao 
-  - emoçao
-  - controle emocional
+  - Meditação
+  - Emoçao
+  - Controle emocional
+  - Músicas relaxantes
 repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projinnerpeace
 version: 1.0.0
 date-released: 2024-07-01
